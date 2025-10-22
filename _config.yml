@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Max "
-  avatar : "/assets/Max-Headshot.jpg"
+  avatar : "/assets/images/Max-Headshot.jpg"
   bio    : "I am a senior at charlotte latin school."
   links:
     - label: "Website"
