@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Milling"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
