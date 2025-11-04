@@ -10,3 +10,8 @@ tags:
 
 ---
 
+**bold text**
+
+*italics*
+
+this is a ~~strikethrough~~
