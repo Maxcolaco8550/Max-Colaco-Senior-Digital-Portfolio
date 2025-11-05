@@ -24,3 +24,4 @@ Day 5: I finished the board today, and it worked. 2 of the holes on the leftmost
 Through this project, I better understood how to solder in addition to using a solder sucker. 
 
 ! [PCB Image](/assets/images/soldering1.jpeg)
+
