@@ -1,0 +1,13 @@
+---
+title: "Links"
+categories:
+  - Blog
+tags:
+  - link
+  - Post Formats
+---
+
+
+[Tutorial](https://github.com/maxvfischer/DIY-arcade?tab=readme-ov-file#add-electronics)
+
+[Bill of Materials](https://docs.google.com/spreadsheets/d/17bSwdFcDibeU4V3dL99fpVvGEvZRBSnMwIz7vI3jbVg/edit?gid=0#gid=0)
