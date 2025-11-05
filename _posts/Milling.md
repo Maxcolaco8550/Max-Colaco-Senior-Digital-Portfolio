@@ -2,6 +2,7 @@
 title: "Milling"
 categories:
   - Blog
+  - Posts
 tags:
   - Post Formats
   - notice
