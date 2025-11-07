@@ -57,34 +57,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Max "
+  name   : "Max"
   avatar : "/assets/images/Max Colaco Headshot.png"
   bio    : "I am a student at Charlotte Latin School."
   links:
     - label: "Files"
       icon: "fas fa-fw fa-link"
       url: "https://drive.google.com/drive/folders/1UuKecPaTJdXs1m5SnTdIX2QXSDDppdOt"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Maxcolaco8550"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+  links:"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
