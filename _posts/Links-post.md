@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - link
-  - Post Formats
+  - Post 
 ---
 
 
