@@ -62,14 +62,14 @@ author:
   bio    : "I am a student at Charlotte Latin School."
   links:
     - label: "Files"
-      icon: "fas fa-fw fa-link"
-      url: "https://drive.google.com/drive/folders/1UuKecPaTJdXs1m5SnTdIX2QXSDDppdOt"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/Maxcolaco8550"
+     icon: "fas fa-fw fa-link"
+url: "https://drive.google.com/drive/folders/1UuKecPaTJdXs1m5SnTdIX2QXSDDppdOt"
+label: "GitHub"
+  icon: "fab fa-fw fa-github"
+  url: "https://github.com/Maxcolaco8550"
 
 footer:
-  links:"
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
