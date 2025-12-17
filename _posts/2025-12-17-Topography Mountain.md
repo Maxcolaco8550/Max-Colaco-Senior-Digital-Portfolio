@@ -14,7 +14,6 @@ This project entailed creating a topography map of a specific mountain of our ch
 During the project, I did not encounter any problems. When I finished the CNC job, the mountain had a layer around it on the outside, so I used a bandsaw on the outside edges to make the mountain clearer. After I used the bansaw I sanded down all of the edges.
 
 
-
 ## Final Summary ##
 
 
