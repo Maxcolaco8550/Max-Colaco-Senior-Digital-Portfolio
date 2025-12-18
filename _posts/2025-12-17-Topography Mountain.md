@@ -17,6 +17,7 @@ During the project, I did not encounter any problems. When I finished the CNC jo
 ## Final Summary ##
 
 
+
 ### Files ###
 
 
@@ -25,3 +26,4 @@ During the project, I did not encounter any problems. When I finished the CNC jo
 
 ### Links ###
 - [Design Work Flow](https://drive.google.com/file/d/1P_7m0Lgjn-nV3mNY1V3UVepXRPQ9i9nh/view?usp=sharing)
+- [CNC Machine Workflow](https://docs.google.com/document/d/1J29w4x8KAjFK9fBboK77Npthw2UkdPUKx3t_3gM4uVE/edit?tab=t.glmm8bbk3htn)
