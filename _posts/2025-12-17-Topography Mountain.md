@@ -16,11 +16,12 @@ During the project, I did not encounter any problems. When I finished the CNC jo
 
 ## Final Summary ##
 
-This project allowed me to better understand the Makera and Cavera software as well as Aspire. Previous to this project I had used Aspire once and this was a good refresher on how for a project multiple tool paths are needed depending on the type of cut is needed. I also learned how to use the Terrain2STL website to create a model of topography. 
+This project allowed me to better understand the Makera and Cavera software as well as Aspire. Previous to this project I had used Aspire once and this was a good refresher on how for a project multiple tool paths are needed depending on the type of cut is needed. I also learned how to use the Terrain2STL website to create a model of topography. I also plan in the future to engrave the name of the town surrounding the mountain range in addition to its elevation.
 
 ### Files ###
 
 <a href="/assets/files/Colaco%20Topo%202%20%281%29.crv3d" download>Download CRV file (Colaco Topo 2)</a>
+<a href = "/assests/files/Colaco Topo (1) (1).cnc>" download>Download CNC File (Colaco Topo 1)
 
 ### Links ###
 - [Design Work Flow](https://drive.google.com/file/d/1P_7m0Lgjn-nV3mNY1V3UVepXRPQ9i9nh/view?usp=sharing)
