@@ -42,3 +42,9 @@ Day 10: Today, I continued making the panels. I made a door for the back panel s
 
 
 Day 11: Today, I created a slot for RGB lights in the side Panels. I used 4.85mm x 720mm. A .05mm gap was created between the RGB measurement and the gap to ensure that when the CNC machine cuts the wood, the lights will easily fall into place.
+
+
+Week 3: 
+During this week, I switched my focus back to the Raspberry Pi. For the majority of the week, I was doing research on how to get the games I wanted onto the RetroPi software. I learned that I needed to download ROMs, which stand for Read Only Memory, which in this case holds a game and its code. I had never heard of ROMs, so I did a lot of research on where to obtain a free version. I found a website called MAME, which offers free ROMs and is considered a safe platform for downloading them. After I found this website, I found a tutorial on how to download them and get them onto the Raspberry Pi. I needed a thumb drive to transfer the ROMs over. I didn't get a thumb drive until the next week. I then went to download the ROMs at school, but the wifi blocked it, so I needed to do it at home. I switched my attention to the fusion files. I continued to work on the button panel, changing the number of buttons from the original. The original had 16 buttons, and I decreased it to 8, 4 for one side and 4 for the other. That was all I managed for this week.
+
+Week 4:
